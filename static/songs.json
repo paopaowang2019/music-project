@@ -1,0 +1,14 @@
+{
+  "songs": [
+    {"id": "10001", "name": "在雨夜", "author": "周深"},
+    {"id": "10002", "name": "红昭愿", "author": "周深"},
+    {"id": "10003", "name": "锦鲤抄", "author": "银临"},
+    {"id": "10004", "name": "大鱼", "author": "周深"},
+    {"id": "10005", "name": "出山", "author": "双笙"},
+    {"id": "10006", "name": "左手指月", "author": "萨顶顶"},
+    {"id": "10007", "name": "Dream it Possibel", "author": "Delacey"},
+    {"id": "10008", "name": "不朽之罪", "author": "双笙/玄"},
+    {"id": "10009", "name": "不然", "author": "毛不易"},
+    {"id": "10010", "name": "锦鲤抄", "author": "银临/云之泣"}
+  ]
+}
